@@ -1,2 +1,2 @@
 # WWDC2017
-My WWDC 2017 Scholarship Submission
+This is my WWDC 2017 Playground submission. Essentially it takes a text file, assignes a value to each word, and then creates a color and note for the word and plays through the txt file.
